@@ -1,0 +1,53 @@
+# Document files
+*.pdf
+*.html
+*.xml
+*.pptx
+*.docx
+*.doc
+*.xlxs
+*.xls
+
+# System files
+*.DS_Store
+*.pyc
+*.iml
+*.db
+
+# Data files
+*.npy
+*.npz
+*.pkl
+*.pth
+*.pt
+*.onnx
+*.csv
+*.weights
+
+# Archive files
+*.zip
+*.rar
+*.tar
+*.gz
+*.bz2
+*.7z
+*.tar.gz
+
+# Audio files
+*.ogg
+*.wav
+*.mp3
+
+# Video files
+*.mp4
+
+# Directories
+**/pycache/
+**/data/
+**/dataset/
+**/model/
+**/outputs/
+**/output/
+**/logs/
+**/checkpoints/
+**/results/
